@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TestLogin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="oauth_Str">Oauth授权</string>
+
+</resources>
